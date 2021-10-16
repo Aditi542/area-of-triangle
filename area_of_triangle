@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int b;
+    int h;
+    int a;
+    cout<<"Enter the value of base and height :";
+    cin>>b>>h;
+    a=0.5*b*h;
+    cout<<"Area of triangle="<<a;
+
+}
